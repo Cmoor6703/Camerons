@@ -2,13 +2,16 @@
 
 You can go to the [HTML website](https://html.com/) to learn to code with HTML or, you could learn here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Commands
 
-### Markdown
+To _italicize_ put underscores before and after wht you are trying to italicize EX. _ Example_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a way to highlite a specified area with a box.
+To do this, ``` 
+Type 3 graves
+When you wish to end it, type another 3 graves where you want to end it```
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
