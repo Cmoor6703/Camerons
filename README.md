@@ -9,7 +9,7 @@ To _italicize_ put underscores before and after wht you are trying to italicize 
 Markdown is a way to highlite a specified area with a box.
 To do this, ``` 
 Type 3 graves
-When you wish to end it, type another 3 graves where you want to end it```
+When you wish to end it, type another 3 graves ```
 
 
 Syntax highlighted code block
