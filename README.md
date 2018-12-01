@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to _How to code in HTML_
 
-You can use the [editor on GitHub](https://github.com/Cmoor6703/Camerons/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can go to the [HTML website](https://html.com/) to learn to code with HTML or, you could learn here.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
