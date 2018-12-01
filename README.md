@@ -7,9 +7,12 @@ You can go to the [HTML website](https://html.com/) to learn to code with HTML o
 To _italicize_ put underscores before and after wht you are trying to italicize EX. _ Example_
 
 Markdown is a way to highlite a specified area with a box.
-To do this, ``` 
+To do this, 
+```
 Type 3 graves
-When you wish to end it, type another 3 graves ```
+When you want to end it, type another 3 graves
+```
+It should look something like [this](https://www.toptal.com/designers/htmlarrows/punctuation/grave-accent/)
 
 
 Syntax highlighted code block
@@ -27,7 +30,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
